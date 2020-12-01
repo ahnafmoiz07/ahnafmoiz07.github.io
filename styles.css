@@ -1,0 +1,42 @@
+.color{
+    color:steelblue;
+}
+.purple-color{
+     color : purple;
+}
+.blue{
+    color:blue;
+}
+.half-width{
+     width: 50%;
+     float: left;
+
+}
+.side-img{
+   width : 30%;
+   padding-left:40%;
+}
+.button{
+   color:white;
+   border-radius: 30px;
+   padding: 12px 41px 12px 41px;
+   background-color: purple;
+   text-decoration:none;
+}
+.container{
+    margin: 10px;
+    display:inline-block;
+}
+.half-img{
+    width:60%;
+    padding-left: 4%;
+}
+.experiences{
+     margin: 5px;
+     padding:30px;
+}
+.experience-items{
+    border: 5px solid steelblue;
+    border-radius: 20px;
+    padding:10px;
+}
